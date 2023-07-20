@@ -1,1 +1,1 @@
-# module_d6_homework_1
+# Проект News Portal
